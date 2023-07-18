@@ -4,11 +4,9 @@
 
 你好啊，欢迎来到 qiuqianaw 的 GitHub:
 
-- 🎓 软件工程大四，实习中
-- 💻 React / Vue
+- 💻 React / NodeJS
 - 🎄 博客 https://qiuqian.xyz
 - 📫 联系我 qiuqianaw@163.com
 
-*If you come to copy my homework, do not forget to give me a star, plz!*
 
-HAPPY NEW YEAR 2022!
+HAPPY 2023!
